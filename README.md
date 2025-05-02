@@ -5,7 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <img width="935" alt="Screenshot" src="https://github.com/user-attachments/assets/f1fe6f19-d712-4461-b914-7cd71d35cde9" />
 
@@ -68,4 +67,4 @@ Contributions are welcome!
 Powered by [Three.js](https://threejs.org/) and inspired by classic underwater adventures.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
